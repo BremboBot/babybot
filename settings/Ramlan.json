@@ -1,11 +1,11 @@
 {
-    "botName": "BABY BOT",
-    "ownerName": "RAMLAN ID",
-    "ownerNumbers": "6285559240360",
+    "botName": "Brembo",
+    "ownerName": "Brembo",
+    "ownerNumbers": "6283143978839",
     "ZeksApi": "apivinz",
-    "botPrefix": "!",
-    "GrupLimitz": "0",
+    "botPrefix": "/",
+    "GrupLimitz": "99",
     "autor": "MrR4M",
     "peknem": "BABY-BOT",
-    "CeerTod": "*BABY BOTZ VERIFIED*"
+    "CeerTod": "*BREMBO BOTVERIFIED*"
 }
